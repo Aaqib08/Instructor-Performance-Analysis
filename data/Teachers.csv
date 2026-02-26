@@ -1,0 +1,121 @@
+TeacherID,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating
+T0001,Teacher_1,53,Female,Business,28,3.86
+T0002,Teacher_2,39,Female,Business,26,3.49
+T0003,Teacher_3,32,Male,Design,7,3.72
+T0004,Teacher_4,45,Female,Design,25,3.4
+T0005,Teacher_5,43,Male,Programming,4,3.0
+T0006,Teacher_6,47,Male,Programming,13,3.47
+T0007,Teacher_7,35,Female,Data Science,20,4.1
+T0008,Teacher_8,35,Female,Programming,1,2.6
+T0009,Teacher_9,48,Female,Business,8,3.62
+T0010,Teacher_10,48,Female,Design,14,3.47
+T0011,Teacher_11,27,Female,Programming,16,3.24
+T0012,Teacher_12,46,Female,Programming,14,3.61
+T0013,Teacher_13,26,Female,Data Science,12,3.46
+T0014,Teacher_14,48,Female,Data Science,19,3.45
+T0015,Teacher_15,54,Male,Business,23,3.79
+T0016,Teacher_16,26,Female,Design,15,3.38
+T0017,Teacher_17,45,Female,Data Science,28,3.97
+T0018,Teacher_18,57,Male,Programming,2,3.27
+T0019,Teacher_19,36,Female,Design,2,3.54
+T0020,Teacher_20,46,Male,Design,23,3.4
+T0021,Teacher_21,49,Male,Programming,22,4.37
+T0022,Teacher_22,51,Female,Data Science,19,3.05
+T0023,Teacher_23,52,Male,Programming,25,3.79
+T0024,Teacher_24,40,Male,Design,26,4.04
+T0025,Teacher_25,39,Male,Marketing,29,4.05
+T0026,Teacher_26,27,Male,Marketing,22,3.55
+T0027,Teacher_27,31,Female,Business,26,3.8
+T0028,Teacher_28,45,Male,Programming,26,3.72
+T0029,Teacher_29,33,Female,Programming,22,3.56
+T0030,Teacher_30,42,Male,Business,17,3.82
+T0031,Teacher_31,28,Male,Business,20,3.77
+T0032,Teacher_32,49,Male,Business,10,3.13
+T0033,Teacher_33,38,Male,Design,6,3.47
+T0034,Teacher_34,33,Female,Programming,15,3.59
+T0035,Teacher_35,50,Female,Design,22,3.98
+T0036,Teacher_36,26,Male,Business,11,3.56
+T0037,Teacher_37,44,Male,Programming,28,3.68
+T0038,Teacher_38,52,Female,Design,5,3.0
+T0039,Teacher_39,31,Male,Design,1,3.26
+T0040,Teacher_40,32,Male,Business,8,3.45
+T0041,Teacher_41,59,Male,Programming,21,3.69
+T0042,Teacher_42,38,Female,Business,28,3.97
+T0043,Teacher_43,41,Female,Programming,12,3.78
+T0044,Teacher_44,28,Female,Marketing,12,3.22
+T0045,Teacher_45,26,Male,Data Science,5,3.33
+T0046,Teacher_46,30,Male,Data Science,7,3.17
+T0047,Teacher_47,28,Female,Data Science,4,3.07
+T0048,Teacher_48,53,Female,Business,6,3.53
+T0049,Teacher_49,42,Female,Marketing,13,3.68
+T0050,Teacher_50,50,Female,Programming,20,3.91
+T0051,Teacher_51,58,Male,Design,15,3.89
+T0052,Teacher_52,34,Female,Programming,3,3.11
+T0053,Teacher_53,38,Male,Design,23,3.97
+T0054,Teacher_54,55,Female,Programming,8,3.17
+T0055,Teacher_55,39,Male,Marketing,20,3.76
+T0056,Teacher_56,32,Female,Design,16,3.49
+T0057,Teacher_57,38,Female,Business,13,3.46
+T0058,Teacher_58,47,Female,Programming,18,3.78
+T0059,Teacher_59,45,Female,Programming,28,3.69
+T0060,Teacher_60,40,Male,Design,10,3.96
+T0061,Teacher_61,42,Female,Business,19,3.33
+T0062,Teacher_62,48,Male,Business,17,3.2
+T0063,Teacher_63,50,Male,Marketing,24,4.15
+T0064,Teacher_64,49,Male,Business,19,3.87
+T0065,Teacher_65,53,Male,Business,28,4.12
+T0066,Teacher_66,39,Female,Business,26,4.06
+T0067,Teacher_67,25,Male,Data Science,23,3.76
+T0068,Teacher_68,49,Male,Marketing,26,3.6
+T0069,Teacher_69,31,Male,Programming,5,3.19
+T0070,Teacher_70,33,Female,Design,26,3.66
+T0071,Teacher_71,48,Female,Programming,21,3.99
+T0072,Teacher_72,25,Female,Marketing,23,3.72
+T0073,Teacher_73,32,Female,Design,9,3.05
+T0074,Teacher_74,48,Male,Marketing,12,3.3
+T0075,Teacher_75,35,Male,Business,21,3.82
+T0076,Teacher_76,41,Female,Design,1,2.86
+T0077,Teacher_77,32,Male,Business,26,3.62
+T0078,Teacher_78,59,Male,Programming,26,3.94
+T0079,Teacher_79,59,Male,Programming,1,3.11
+T0080,Teacher_80,57,Female,Design,15,3.35
+T0081,Teacher_81,29,Female,Design,2,2.93
+T0082,Teacher_82,52,Male,Marketing,22,3.8
+T0083,Teacher_83,31,Female,Marketing,16,3.1
+T0084,Teacher_84,33,Female,Business,25,3.41
+T0085,Teacher_85,32,Female,Design,8,3.05
+T0086,Teacher_86,36,Female,Programming,13,3.37
+T0087,Teacher_87,58,Female,Marketing,21,3.79
+T0088,Teacher_88,57,Male,Marketing,1,3.48
+T0089,Teacher_89,47,Female,Programming,16,3.79
+T0090,Teacher_90,48,Male,Marketing,29,3.92
+T0091,Teacher_91,59,Male,Business,7,3.23
+T0092,Teacher_92,46,Female,Design,5,2.87
+T0093,Teacher_93,51,Male,Programming,22,3.73
+T0094,Teacher_94,59,Male,Design,29,3.88
+T0095,Teacher_95,25,Male,Marketing,23,3.86
+T0096,Teacher_96,59,Female,Marketing,3,2.85
+T0097,Teacher_97,38,Female,Programming,12,3.56
+T0098,Teacher_98,27,Male,Business,26,4.33
+T0099,Teacher_99,25,Female,Data Science,16,3.5
+T0100,Teacher_100,29,Female,Programming,19,3.75
+T0101,Teacher_101,50,Female,Data Science,5,3.37
+T0102,Teacher_102,38,Female,Data Science,22,3.61
+T0103,Teacher_103,51,Male,Business,25,3.9
+T0104,Teacher_104,33,Male,Data Science,29,3.97
+T0105,Teacher_105,39,Female,Data Science,14,3.5
+T0106,Teacher_106,39,Female,Business,28,3.7
+T0107,Teacher_107,50,Male,Data Science,5,3.17
+T0108,Teacher_108,37,Male,Data Science,15,3.65
+T0109,Teacher_109,56,Female,Data Science,17,4.0
+T0110,Teacher_110,56,Male,Programming,14,3.75
+T0111,Teacher_111,28,Female,Programming,20,4.31
+T0112,Teacher_112,54,Female,Programming,5,2.94
+T0113,Teacher_113,47,Male,Business,12,3.66
+T0114,Teacher_114,39,Male,Marketing,16,3.59
+T0115,Teacher_115,53,Female,Data Science,26,4.52
+T0116,Teacher_116,37,Female,Data Science,26,3.62
+T0117,Teacher_117,56,Male,Business,16,3.28
+T0118,Teacher_118,31,Female,Data Science,21,3.52
+T0119,Teacher_119,46,Male,Programming,7,2.6
+T0120,Teacher_120,52,Female,Marketing,4,2.98

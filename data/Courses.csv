@@ -1,0 +1,201 @@
+CourseID,CourseName,CourseCategory,CourseLevel,CourseRating
+C0001,Course_1,Data Science,Advanced,4.21
+C0002,Course_2,Design,Advanced,4.94
+C0003,Course_3,Design,Intermediate,3.61
+C0004,Course_4,Marketing,Intermediate,3.38
+C0005,Course_5,Programming,Advanced,3.11
+C0006,Course_6,Design,Beginner,4.75
+C0007,Course_7,Business,Advanced,4.33
+C0008,Course_8,Programming,Intermediate,3.97
+C0009,Course_9,Programming,Beginner,4.14
+C0010,Course_10,Programming,Beginner,3.44
+C0011,Course_11,Marketing,Intermediate,5.0
+C0012,Course_12,Design,Intermediate,4.06
+C0013,Course_13,Marketing,Intermediate,4.05
+C0014,Course_14,Design,Advanced,4.36
+C0015,Course_15,Marketing,Advanced,4.24
+C0016,Course_16,Marketing,Beginner,4.11
+C0017,Course_17,Business,Intermediate,3.6
+C0018,Course_18,Marketing,Beginner,4.24
+C0019,Course_19,Data Science,Beginner,4.94
+C0020,Course_20,Business,Beginner,4.67
+C0021,Course_21,Marketing,Beginner,4.8
+C0022,Course_22,Programming,Intermediate,3.74
+C0023,Course_23,Data Science,Beginner,3.51
+C0024,Course_24,Data Science,Intermediate,3.94
+C0025,Course_25,Data Science,Intermediate,4.03
+C0026,Course_26,Business,Advanced,4.55
+C0027,Course_27,Marketing,Intermediate,3.15
+C0028,Course_28,Marketing,Advanced,4.76
+C0029,Course_29,Programming,Intermediate,3.92
+C0030,Course_30,Programming,Intermediate,3.79
+C0031,Course_31,Data Science,Intermediate,3.49
+C0032,Course_32,Programming,Advanced,3.17
+C0033,Course_33,Business,Advanced,4.41
+C0034,Course_34,Marketing,Beginner,4.04
+C0035,Course_35,Data Science,Advanced,3.36
+C0036,Course_36,Programming,Advanced,3.35
+C0037,Course_37,Business,Advanced,3.83
+C0038,Course_38,Business,Advanced,4.83
+C0039,Course_39,Programming,Beginner,3.87
+C0040,Course_40,Marketing,Advanced,3.25
+C0041,Course_41,Programming,Intermediate,3.88
+C0042,Course_42,Data Science,Intermediate,3.86
+C0043,Course_43,Programming,Advanced,2.65
+C0044,Course_44,Business,Advanced,3.97
+C0045,Course_45,Programming,Intermediate,3.88
+C0046,Course_46,Marketing,Intermediate,4.35
+C0047,Course_47,Design,Beginner,4.92
+C0048,Course_48,Programming,Intermediate,4.56
+C0049,Course_49,Marketing,Intermediate,3.87
+C0050,Course_50,Marketing,Advanced,3.45
+C0051,Course_51,Business,Intermediate,5.0
+C0052,Course_52,Marketing,Beginner,4.03
+C0053,Course_53,Marketing,Intermediate,4.01
+C0054,Course_54,Marketing,Advanced,3.99
+C0055,Course_55,Marketing,Advanced,4.1
+C0056,Course_56,Data Science,Intermediate,3.93
+C0057,Course_57,Data Science,Advanced,3.71
+C0058,Course_58,Business,Beginner,3.73
+C0059,Course_59,Programming,Beginner,3.98
+C0060,Course_60,Marketing,Intermediate,3.73
+C0061,Course_61,Programming,Intermediate,3.64
+C0062,Course_62,Programming,Intermediate,4.05
+C0063,Course_63,Business,Advanced,3.87
+C0064,Course_64,Marketing,Beginner,4.75
+C0065,Course_65,Marketing,Beginner,2.67
+C0066,Course_66,Design,Advanced,4.55
+C0067,Course_67,Programming,Beginner,4.62
+C0068,Course_68,Programming,Intermediate,2.96
+C0069,Course_69,Data Science,Intermediate,3.83
+C0070,Course_70,Design,Intermediate,3.81
+C0071,Course_71,Data Science,Beginner,3.3
+C0072,Course_72,Data Science,Intermediate,3.61
+C0073,Course_73,Data Science,Advanced,3.44
+C0074,Course_74,Business,Advanced,4.88
+C0075,Course_75,Business,Beginner,4.47
+C0076,Course_76,Data Science,Advanced,4.64
+C0077,Course_77,Design,Advanced,4.36
+C0078,Course_78,Programming,Beginner,3.44
+C0079,Course_79,Design,Intermediate,3.74
+C0080,Course_80,Marketing,Intermediate,4.24
+C0081,Course_81,Business,Intermediate,3.39
+C0082,Course_82,Programming,Beginner,4.36
+C0083,Course_83,Programming,Advanced,3.88
+C0084,Course_84,Marketing,Intermediate,3.81
+C0085,Course_85,Marketing,Intermediate,4.36
+C0086,Course_86,Data Science,Beginner,4.22
+C0087,Course_87,Business,Intermediate,3.82
+C0088,Course_88,Business,Beginner,4.58
+C0089,Course_89,Design,Advanced,3.46
+C0090,Course_90,Data Science,Beginner,4.31
+C0091,Course_91,Data Science,Beginner,4.3
+C0092,Course_92,Data Science,Beginner,3.85
+C0093,Course_93,Data Science,Beginner,4.16
+C0094,Course_94,Business,Advanced,3.37
+C0095,Course_95,Business,Advanced,4.46
+C0096,Course_96,Data Science,Intermediate,3.91
+C0097,Course_97,Design,Advanced,3.74
+C0098,Course_98,Programming,Advanced,4.52
+C0099,Course_99,Programming,Intermediate,3.65
+C0100,Course_100,Design,Advanced,3.3
+C0101,Course_101,Data Science,Beginner,3.22
+C0102,Course_102,Business,Beginner,4.3
+C0103,Course_103,Programming,Intermediate,3.36
+C0104,Course_104,Marketing,Intermediate,4.88
+C0105,Course_105,Marketing,Intermediate,2.96
+C0106,Course_106,Design,Beginner,4.85
+C0107,Course_107,Data Science,Advanced,4.11
+C0108,Course_108,Programming,Beginner,3.95
+C0109,Course_109,Data Science,Intermediate,3.73
+C0110,Course_110,Programming,Advanced,4.2
+C0111,Course_111,Design,Advanced,3.98
+C0112,Course_112,Design,Beginner,4.55
+C0113,Course_113,Marketing,Intermediate,4.06
+C0114,Course_114,Data Science,Beginner,4.08
+C0115,Course_115,Marketing,Advanced,3.82
+C0116,Course_116,Data Science,Beginner,3.97
+C0117,Course_117,Marketing,Beginner,4.15
+C0118,Course_118,Business,Intermediate,3.14
+C0119,Course_119,Business,Intermediate,3.33
+C0120,Course_120,Business,Advanced,4.37
+C0121,Course_121,Business,Beginner,4.09
+C0122,Course_122,Programming,Beginner,3.91
+C0123,Course_123,Business,Beginner,4.01
+C0124,Course_124,Design,Advanced,4.17
+C0125,Course_125,Design,Advanced,3.73
+C0126,Course_126,Programming,Intermediate,3.61
+C0127,Course_127,Business,Intermediate,4.1
+C0128,Course_128,Business,Intermediate,3.51
+C0129,Course_129,Business,Beginner,4.2
+C0130,Course_130,Marketing,Beginner,3.15
+C0131,Course_131,Data Science,Intermediate,4.51
+C0132,Course_132,Marketing,Beginner,4.24
+C0133,Course_133,Data Science,Intermediate,4.13
+C0134,Course_134,Business,Advanced,4.49
+C0135,Course_135,Business,Intermediate,4.83
+C0136,Course_136,Marketing,Advanced,4.51
+C0137,Course_137,Marketing,Beginner,3.08
+C0138,Course_138,Data Science,Intermediate,3.36
+C0139,Course_139,Design,Beginner,3.69
+C0140,Course_140,Data Science,Advanced,4.01
+C0141,Course_141,Marketing,Advanced,4.26
+C0142,Course_142,Marketing,Advanced,3.64
+C0143,Course_143,Programming,Beginner,4.09
+C0144,Course_144,Marketing,Beginner,3.62
+C0145,Course_145,Programming,Beginner,3.69
+C0146,Course_146,Design,Beginner,3.3
+C0147,Course_147,Data Science,Advanced,3.54
+C0148,Course_148,Data Science,Advanced,3.32
+C0149,Course_149,Programming,Intermediate,3.51
+C0150,Course_150,Data Science,Intermediate,4.53
+C0151,Course_151,Marketing,Beginner,3.53
+C0152,Course_152,Business,Advanced,5.0
+C0153,Course_153,Programming,Advanced,4.25
+C0154,Course_154,Data Science,Advanced,4.09
+C0155,Course_155,Programming,Intermediate,3.57
+C0156,Course_156,Programming,Intermediate,4.35
+C0157,Course_157,Business,Advanced,3.71
+C0158,Course_158,Marketing,Advanced,4.06
+C0159,Course_159,Programming,Advanced,5.0
+C0160,Course_160,Data Science,Intermediate,3.95
+C0161,Course_161,Design,Advanced,4.57
+C0162,Course_162,Programming,Advanced,3.65
+C0163,Course_163,Programming,Beginner,3.98
+C0164,Course_164,Business,Beginner,4.89
+C0165,Course_165,Marketing,Intermediate,3.69
+C0166,Course_166,Design,Advanced,4.91
+C0167,Course_167,Data Science,Advanced,4.35
+C0168,Course_168,Design,Beginner,3.72
+C0169,Course_169,Data Science,Intermediate,4.32
+C0170,Course_170,Marketing,Beginner,4.49
+C0171,Course_171,Data Science,Beginner,4.31
+C0172,Course_172,Business,Beginner,3.21
+C0173,Course_173,Business,Beginner,3.64
+C0174,Course_174,Business,Advanced,3.88
+C0175,Course_175,Business,Advanced,3.96
+C0176,Course_176,Design,Beginner,4.31
+C0177,Course_177,Marketing,Intermediate,4.09
+C0178,Course_178,Data Science,Intermediate,3.33
+C0179,Course_179,Data Science,Intermediate,4.19
+C0180,Course_180,Business,Intermediate,4.31
+C0181,Course_181,Business,Beginner,4.28
+C0182,Course_182,Programming,Advanced,4.54
+C0183,Course_183,Marketing,Intermediate,4.42
+C0184,Course_184,Design,Beginner,4.23
+C0185,Course_185,Data Science,Intermediate,3.96
+C0186,Course_186,Programming,Intermediate,3.17
+C0187,Course_187,Programming,Beginner,4.21
+C0188,Course_188,Data Science,Advanced,4.1
+C0189,Course_189,Design,Advanced,4.14
+C0190,Course_190,Programming,Beginner,3.36
+C0191,Course_191,Programming,Advanced,3.46
+C0192,Course_192,Marketing,Beginner,4.53
+C0193,Course_193,Design,Beginner,3.98
+C0194,Course_194,Programming,Beginner,4.34
+C0195,Course_195,Design,Advanced,4.01
+C0196,Course_196,Data Science,Beginner,4.01
+C0197,Course_197,Business,Intermediate,4.47
+C0198,Course_198,Programming,Advanced,3.74
+C0199,Course_199,Marketing,Advanced,4.05
+C0200,Course_200,Data Science,Advanced,3.77
